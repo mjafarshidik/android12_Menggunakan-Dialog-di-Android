@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Binar/Android Bootcamp/Task Binar/Chapter5Topic6/app/src/main/res/drawable/bg_iv.xml" value="0.1775" />
+        <entry key="..\:/Binar/Android Bootcamp/Task Binar/Chapter5Topic6/app/src/main/res/layout/activity_main.xml" value="0.24270833333333333" />
+        <entry key="..\:/Binar/Android Bootcamp/Task Binar/Chapter5Topic6/app/src/main/res/layout/dialog_view.xml" value="0.2528205128205128" />
+        <entry key="..\:/Binar/Android Bootcamp/Task Binar/Chapter5Topic6/app/src/main/res/layout/fragment_custom_dialog.xml" value="0.2528205128205128" />
+        <entry key="..\:/Binar/Android Bootcamp/Task Binar/Chapter5Topic6/app/src/main/res/layout/fragment_dialog.xml" value="0.25677083333333334" />
+        <entry key="..\:/Binar/Android Bootcamp/Task Binar/Chapter5Topic6/app/src/main/res/layout/fragment_dialog_with_data.xml" value="0.25677083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
